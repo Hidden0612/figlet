@@ -1,1 +1,3 @@
 # figlet
+
+pip install pyfiglet
